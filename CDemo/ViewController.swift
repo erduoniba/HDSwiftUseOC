@@ -8,11 +8,19 @@
 
 import UIKit
 
+import HDTestLib
+import HDTestPod
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        _ = ObjcSuperClass()
+        SwiftSubClass.dosome()
+        SwiftSubClass.init().instanceDosome()
+
+        SwiftSubClassPod.dosome()
     }
 
     override func didReceiveMemoryWarning() {

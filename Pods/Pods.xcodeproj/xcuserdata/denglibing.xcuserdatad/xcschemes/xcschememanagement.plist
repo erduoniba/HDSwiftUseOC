@@ -4,25 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CDemo.xcscheme</key>
+		<key>HDTestPod.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>HDTestLib.xcscheme</key>
+		<key>Pods-CDemo.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>D9D4F7491E83A56200D6BC6E</key>
+		<key>677C399C7DEA8350FC2C3B021FCF67DE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D9D4F7631E83A58E00D6BC6E</key>
+		<key>6EB2DF4146A35B99752EB01674F092B6</key>
 		<dict>
 			<key>primary</key>
 			<true/>

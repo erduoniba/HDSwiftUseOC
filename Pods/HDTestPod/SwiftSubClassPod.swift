@@ -8,7 +8,7 @@
 
 import UIKit
 
-public class SwiftSubClass: ObjcSuperClass {
+public class SwiftSubClassPod: ObjcSuperClassPod {
     public class func dosome() {
         print("dosome")
     }

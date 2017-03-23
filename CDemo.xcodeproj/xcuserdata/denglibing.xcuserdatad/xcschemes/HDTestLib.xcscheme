@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D9D4F7491E83A56200D6BC6E"
-               BuildableName = "CDemo.app"
-               BlueprintName = "CDemo"
+               BlueprintIdentifier = "D9D4F7631E83A58E00D6BC6E"
+               BuildableName = "HDTestLib.framework"
+               BlueprintName = "HDTestLib"
                ReferencedContainer = "container:CDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D9D4F7491E83A56200D6BC6E"
-            BuildableName = "CDemo.app"
-            BlueprintName = "CDemo"
-            ReferencedContainer = "container:CDemo.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D9D4F7491E83A56200D6BC6E"
-            BuildableName = "CDemo.app"
-            BlueprintName = "CDemo"
+            BlueprintIdentifier = "D9D4F7631E83A58E00D6BC6E"
+            BuildableName = "HDTestLib.framework"
+            BlueprintName = "HDTestLib"
             ReferencedContainer = "container:CDemo.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D9D4F7491E83A56200D6BC6E"
-            BuildableName = "CDemo.app"
-            BlueprintName = "CDemo"
+            BlueprintIdentifier = "D9D4F7631E83A58E00D6BC6E"
+            BuildableName = "HDTestLib.framework"
+            BlueprintName = "HDTestLib"
             ReferencedContainer = "container:CDemo.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

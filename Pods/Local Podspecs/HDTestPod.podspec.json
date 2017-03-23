@@ -1,0 +1,22 @@
+{
+  "name": "HDTestPod",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "denglibing": "denglibing@fangdd.com"
+  },
+  "summary": "HDTestPod",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "homepage": "https://github.com/erduoniba/HDTestPod.git",
+  "source": {
+    "git": "https://github.com/erduoniba/HDTestPod.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "*.{h,m,swift}",
+  "module_name": "HDTestPod"
+}

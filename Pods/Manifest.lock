@@ -1,0 +1,21 @@
+PODS:
+  - HDTestPod (0.0.1)
+
+DEPENDENCIES:
+  - HDTestPod (from `https://github.com/erduoniba/HDTestPod.git`)
+
+EXTERNAL SOURCES:
+  HDTestPod:
+    :git: https://github.com/erduoniba/HDTestPod.git
+
+CHECKOUT OPTIONS:
+  HDTestPod:
+    :commit: 624d36c4d468ba339316ab2d72edf0682e4014f2
+    :git: https://github.com/erduoniba/HDTestPod.git
+
+SPEC CHECKSUMS:
+  HDTestPod: a32ca70d6d27d33383dded699315ee5603280612
+
+PODFILE CHECKSUM: 64ea5a8976ffd05e2cfc96403b7cf3eca1a869b6
+
+COCOAPODS: 1.2.1.beta.1
